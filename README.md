@@ -14,7 +14,7 @@ React · JavaScript · TypeScript · Next.js · Tailwind CSS · Redux · Node.js
 
 - **[AI Job Assistant](https://ai-job-assistant-beta.vercel.app)** — BYOK AI assistant (Next.js + Claude/Gemini) that generates tailored job emails and application answers from your personal context. Cuts application time from ~30 min to ~3 min.
 
-- **[React Text Highlighter](https://ekansh1209.github.io/react-text-highlighter/)** — Inline text highlighter with 5 colors, overlap resolution, localStorage persistence, and dark/light theme support. Built to fill a gap in GreatFrontend's quiz platform.
+- **[React Text Highlighter](https://ekansh1209.github.io/react-text-highlighter/)** — Inline text highlighter, overlap resolution, localStorage persistence, and dark/light theme support. Built to fill a gap in GreatFrontend's quiz platform.
 
 - **[MemoraFlow](https://www.memoraflow.com)** — Mobile-first B2B SaaS (Next.js) for business owners to manage memberships, track renewals, and monitor revenue. Actively used by real users.
 
