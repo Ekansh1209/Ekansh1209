@@ -1,6 +1,6 @@
 ### Hi there, I'm Ekansh 👋
 
-Frontend Engineer with 4+ years of experience building scalable web apps with React and Modern JavaScript. I work at Accenture, building Gen AI-powered products and interactive workflow tools used by 20+ clients.
+Frontend Engineer with 4.5 years of experience building scalable web apps with React and Modern JavaScript. I work at Accenture, building Gen AI-powered products and interactive workflow tools used by 20+ clients.
 
 ---
 
