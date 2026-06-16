@@ -4,13 +4,13 @@ Frontend Engineer with 4+ years of experience building scalable web apps with Re
 
 ---
 
-** Tech I work with**
+**Tech I work with**
 
 React · JavaScript · TypeScript · Next.js · Tailwind CSS · Redux · Node.js · Material UI · AG Grid · ReactFlow
 
 ---
 
-** Personal Projects**
+**Personal Projects**
 
 - **[AI Job Assistant](https://ai-job-assistant-beta.vercel.app)** — BYOK AI assistant (Next.js + Claude/Gemini) that generates tailored job emails and application answers from your personal context. Cuts application time from ~30 min to ~3 min.
 
